@@ -2,6 +2,7 @@ require "bundler/gem_tasks"
 require "rake/testtask"
 require "standard/rake"
 # sss
+# dddd
 # If you want to generate API docs:
 #   gem install yard && yard && open doc/index.html
 # YARD readme: https://rubydoc.info/gems/yard/file/README.md
